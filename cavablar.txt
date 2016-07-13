@@ -1,0 +1,31 @@
+﻿Düzgün və oxunaqlı CSS kodu yazmaq üçün lazım olabiləcək 10 qayda :
+1)kommentler yazmag 
+2)kodu maksimum qisa formada yazmag
+3)klasslara ve id-lere koda uygun ad qoymag
+4)klasslara ve id-lere calishib maksimum qisa ad qoymag
+5)ellementlerin xaselerin qisa formada yazmag(margin:0 20px 30px 0;)
+6)her bir qaydani bir setir sora yazmag meslehetdi
+7)standart shriftleri reset elemek 
+8)kodu balaca herflerle yazmag
+9)ellementleri alfavit sirasiyla yazmag 
+10)kodu ayrica css faylda yazmag,html kodunun icinde yox
+
+Font Awesome ikon fontlari:
+font awesome ikon fontlari butun lazim olan ikonlari ozunde cemleshdirir.
+Rengin ,olcusun hasanligla deyishmek olar.fonteawesome.io qirib download edennen sonra font-Awesome papkasini proektivizin
+ papkasina atirsiz.Sonra HTML-in <head> teqine bu kodu yazirsiz-
+"<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">".Sonra saytda secdiyiviz ikonun classini
+istfade edirik.
+
+Azərbaycan şriftlərini dəstəkləyən 10 ədəd font ailəsinin adı və istifadə qaydası:
+fonts.google.com-a girib fontu secib linki kopya edib,HTML-in <head>teqine qoshulur.
+1)Merriweather
+2)PT Serif
+3)Caudex
+4)Judson
+5)Tinos
+6)Roboto, cond.
+7)Ubuntu, Cond.
+8)Arimo
+9)Noto Sans
+10)Istok Web
